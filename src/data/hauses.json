@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Ruhiger Ort in Bayern",
+        "country": "Germany",
+        "price": 50,
+        "room": 2
+	},
+	{
+		"title": "Goditi il piacere di vivere",
+        "country": "Italy",
+        "price": 60,
+        "room": 1
+    },
+    {
+		"title": "Vacaciones fantásticas",
+        "country": "Spain",
+        "price": 40,
+        "room": 3
+    },
+    {
+		"title": "Praia revigorante",
+        "country": "Brazil",
+        "price": 30,
+        "room": 2
+	}
+	
+]
