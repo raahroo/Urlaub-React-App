@@ -22,6 +22,12 @@
         "country": "Brazil",
         "price": 30,
         "room": 2
+    },
+    {
+		"title": "Praia revigorante",
+        "country": "Germany",
+        "price": 30,
+        "room": 2
 	}
 	
 ]
